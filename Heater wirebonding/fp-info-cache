@@ -1,4 +1,4 @@
-26763791664149662
+26767317655537766
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59352,6 +59352,20 @@ ceramic
 0
 3
 3
+Custom_pads
+HRS_TF31-20S-0.5SH_800_
+
+
+0
+22
+22
+Custom_pads
+Pads 1x10
+
+
+0
+10
+10
 Custom_pads
 Pads 1x20
 
